@@ -2,5 +2,20 @@ body {
     color: rgb(22, 28, 49);
     text-align: center;
     font-family: Arial;
+    font-size: 30px;
+    margin: 0;
+    padding: 0;
 
+}
+.container {
+    width: 75%;
+    padding: 3em;
+    text-align: left;
+    border: 3px solid white;
+    margin: 0 auto;
+}
+#cabecera {
+    text-align: center;
+    background-color: azure;
+    
 }
