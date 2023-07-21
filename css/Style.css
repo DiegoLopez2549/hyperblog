@@ -7,10 +7,15 @@ body {
     padding: 0;
 
 }
-#container {
+.container {
     width: 75%;
     padding: 3em;
     text-align: left;
     border: 3px solid white;
     margin: 0 auto;
+}
+#cabecera {
+    text-align: center;
+    background-color: azure;
+    
 }
